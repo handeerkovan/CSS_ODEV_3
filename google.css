@@ -1,0 +1,22 @@
+.button_style {
+    border: 0cap; 
+    border-color: aliceblue; 
+    width: 130px; 
+    height: 35px; 
+    border-radius: 5%;
+}
+
+.search-input {
+    width: 500px; /* Genişlik */
+    height: 40px; /* Yükseklik */
+    border: 1px solid #ddd; /* İnce gri kenarlık */
+    border-radius: 20px; /* Tam yuvarlak köşeler için yarıçap */
+    padding: 0 15px; /* İç boşluk */
+    font-size: 16px; /* Yazı boyutu */
+    outline: none; /* Tıklanınca mavi çerçeve olmaması için */
+}
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
